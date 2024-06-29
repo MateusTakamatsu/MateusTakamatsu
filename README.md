@@ -50,8 +50,9 @@
   <a href="https://www.linkedin.com/in/mateus-machado-takamatsu-999822310" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mateustaka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<!--
 <div>
-  
   ![Snake animation](https://github.com/MateusTakamatsu/MateusTakamatsu/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+-->
