@@ -1,36 +1,33 @@
 <h1 align="center">Hi, Mateus Taka here! 👋😁</h1>
 <h3 align="center">A Full Stack developer (studying to be a computer engineer)</h3>
 
-### Languages and Frameworks
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <a><b>JavaScript</b></a>
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <a><b>Vue.js</b></a>
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a><b>Python</b></a>
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <a><b>Ruby</b></a>
-</div><br>
-
-### Other technologies
-<div style="display: inline_block">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <a><b>Node.js</b></a>
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="Postamn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <a><b>Postman</b></a>
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
-  <a><b>DBeaver</b></a>
+<div>
+  <div>
+    <h3>Languages and Frameworks</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <a><b>JavaScript</b></a>
+    <br><br>
+    <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <a><b>Vue.js</b></a>
+    <br><br>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <a><b>Python</b></a>
+    <br><br>
+    <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+    <a><b>Ruby</b></a>
+  </div><br>
+  
+  <div>
+    <h3>Other technologies</h3>
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <a><b>Node.js</b></a>
+    <br><br>
+    <img align="center" alt="Postamn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+    <a><b>Postman</b></a>
+    <br><br>
+    <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
+    <a><b>DBeaver</b></a>
+  </div>
 </div><br><br>
 
 <!--
