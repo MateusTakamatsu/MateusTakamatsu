@@ -1,34 +1,13 @@
 <h1 align="center">Hi, Mateus Taka here! 👋😁</h1>
 <h3 align="center">A Full Stack developer (studying to be a computer engineer)</h3>
+<br>
 
-<div>
-  <div>
-    <h3>Languages and Frameworks</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <a><b>JavaScript</b></a>
-    <br><br>
-    <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <a><b>Vue.js</b></a>
-    <br><br>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <a><b>Python</b></a>
-    <br><br>
-    <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-    <a><b>Ruby</b></a>
-  </div><br>
-  
-  <div>
-    <h3>Other technologies</h3>
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <a><b>Node.js</b></a>
-    <br><br>
-    <img align="center" alt="Postamn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-    <a><b>Postman</b></a>
-    <br><br>
-    <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
-    <a><b>DBeaver</b></a>
-  </div>
-</div><br><br>
+| Programming languages | Frameworks | Other technologies |
+|--|--|--|
+| <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><a><b> JavaScript</b></a> | <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><a><b>Vue.js</b></a> | <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><a><b> Node.js</b></a> |
+| <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a><b> Python</b></a> |  | <img align="center" alt="Postamn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"><a><b> Postman</b></a> |
+| <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg"><a><b> Ruby</b></a> |  | <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"><a><b> DBeaver</b></a> |
+<br>
 
 <!--
 <div>
@@ -37,6 +16,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTakamatsu&layout=compact&langs_count=6&theme=monokai"/>
 </div><br>
 -->
+
 
 ### Portfolio under construction 🏗️
 <br>
