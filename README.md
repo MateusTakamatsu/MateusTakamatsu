@@ -2,12 +2,16 @@
 <h3 align="center">A Full Stack developer (studying to be a computer engineer)</h3>
 <br>
 
-| Programming languages | Frameworks | Databases | Other technologies |
+| Programming languages | Frameworks | Tools | Database |
 |--|--|--|--|
-| <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg"><a><b> Ruby</b></a> | <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"><a><b> Ruby on Rails</b></a> | <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><a><b> PostgreSQL</b></a> | <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><a><b> Node.js</b></a> |
-| <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><a><b> JavaScript</b></a> | <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><a><b>Vue.js</b></a> |  | <img align="center" alt="Postamn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"><a><b> Postman</b></a> |
-| <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a><b> Python</b></a> | <img align="center" alt="NuxtJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"><a><b>Nuxt.js</b></a> |  |  |
+| <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg"><a><b> Ruby</b></a> | <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"><a><b> Ruby on Rails</b></a> | <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><a><b> Node.js</b></a> | <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><a><b> PostgreSQL</b></a> |
+| <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><a><b> JavaScript</b></a> | <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><a><b> Vue.js</b></a> | <img align="center" alt="Postamn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"><a><b> Postman</b></a> |  |
+| <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a><b> Python</b></a> | <img align="center" alt="NuxtJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"><a><b> Nuxt.js</b></a> | <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"><a><b> DBeaver</b></a> |  |
 <br>
+
+<!--
+Adicionar parte sobre gostos principais (?) (programação, redes, cyber security)
+-->
 
 <!--
 <div>
